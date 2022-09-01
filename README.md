@@ -1,2 +1,9 @@
 # problemas
-Repositório com listas de desafios, uteis para quem está conhecendo uma nova linguagem.
+Repositório com listas de desafios, úteis para quem está conhecendo uma nova linguagem.
+
+# Links
+
+- [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/index.html)
+  - Rust by Example (RBE) is a collection of runnable examples that illustrate various Rust concepts and standard libraries.
+- [OCaml Problems](https://ocaml.org/problems)
+  - 99 problemas com enunciado em Inglês e soluções em OCaml
