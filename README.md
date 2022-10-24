@@ -11,3 +11,5 @@ Repositório com listas de desafios, úteis para quem está conhecendo uma nova 
   - 99 problemas com enunciado em Inglês e soluções em OCaml
 - [P2P Workshop](https://github.com/mafintosh/p2p-workshop)
   - Workshop focado em nodejs, começa com um echo tcp server, passa por chat e append-only logs
+- [beecrowd](http://becrowd.com.br/)
+  - plataforma de programação competitiva com muitos testes em Português
